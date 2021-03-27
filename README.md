@@ -1,3 +1,2 @@
-< header >
-Cold Coffee
-</ header>
+# Cold Coffee
+%Document Cold Coffee
