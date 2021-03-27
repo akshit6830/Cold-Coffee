@@ -1,2 +1,2 @@
 # Cold Coffee
-%Document Cold Coffee
+## Cold Coffee
